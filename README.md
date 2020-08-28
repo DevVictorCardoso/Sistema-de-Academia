@@ -8,8 +8,8 @@ Na continuação dos estudos, estou aplicando os conhecimento adquiridos ao long
 Ferramentas utilizadas para criar seu projeto
 
 * [ECLIPSE](http://www.eclipse.org/) - IDE utilizada
-* [WILDFLY 20] (https://www.wildfly.org/) - SERVIDOR utilizado
-* [MySQL] (https://www.mysql.com/) - Banco de Dados Uilizado
+* [WILDFLY 20](https://www.wildfly.org/) - SERVIDOR utilizado
+* [MySQL](https://www.mysql.com/) - Banco de Dados Uilizado
 
 
 # Autor
