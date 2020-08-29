@@ -1,4 +1,4 @@
-package br.com.devvictorcardoso.academia01;
+package br.com.devvictorcardoso.academia01.application.config;
 
 import javax.enterprise.context.ApplicationScoped;
 import javax.faces.annotation.FacesConfig;
